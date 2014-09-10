@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 cube <- function(x, n) {
   x^3
 }setwd("~/Dropbox/Apps/01 Markdown/21 TeamLeada and Other Learnings/Coursera/R Programming/Week2")
+=======
+setwd("~/Dropbox/Apps/01 Markdown/21 TeamLeada and Other Learnings/Coursera/R Programming/Week2")
+>>>>>>> 6e57a1e8c7738fadeda7a52e59374ef1599c5226
 
 source('pollutantmean.R')
 source('complete.R')
@@ -42,6 +46,7 @@ length(cr)
 # -----
 
 submit()
+<<<<<<< HEAD
 
 
 x <- 1:10
@@ -65,3 +70,5 @@ y <- if(x < 3) {
 } else {
   10
 }
+=======
+>>>>>>> 6e57a1e8c7738fadeda7a52e59374ef1599c5226
